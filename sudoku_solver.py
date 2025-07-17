@@ -1,6 +1,3 @@
-# SUDOKU SOLVER
-# BY - ADITYAOJAS SHARMA
-
 # import the libraries
 from tensorflow.keras.models import load_model
 from imutils.perspective import four_point_transform
