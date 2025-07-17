@@ -14,19 +14,6 @@ This project captures a real-time webcam feed, detects and extracts Sudoku puzzl
 
 ---
 
-## 📂 Project Structure
-
-sudoku-solver/
-├── sudoku_solver.py # Main script: real-time Sudoku detection and solving
-├── model/ # (Not included) Trained digit recognition model
-├── dataset/ # (Not included) Custom dataset for training
-├── utils/
-│ ├── image_utils.py # Image preprocessing and grid extraction helpers
-│ └── solver.py # Peter Norvig’s Sudoku solver implementation
-├── README.md # This file
-
-
----
 
 ## 🧠 Digit Recognition Model
 
